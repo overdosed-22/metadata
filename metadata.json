@@ -2,5 +2,11 @@
     "name": "GABBY",
     "symbol": "GABBY",
     "description": "GABBY WORLD",
-    "image": "https://gabby-ton.s3.ap-northeast-1.amazonaws.com/gabby.png"
+    "image": "https://gabby-ton.s3.ap-northeast-1.amazonaws.com/gabby.png",
+    "attributes": [
+    {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+    }
+    ]
 }
