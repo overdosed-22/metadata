@@ -1,6 +1,12 @@
 {
-  name: "Gabby World Token",
-  symbol: "$GABBY",
-  description: "Official token of Gabby World",
-  image: "https://raw.githubusercontent.com/overdosed-22/metadata/refs/heads/main/gabby.png"
+"name": "Gabby World Tokem",
+"symbol": "OPOS",
+"description": "Only Possible On Solana",
+"image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+"attributes": [
+{
+"trait_type": "Item",
+"value": "Developer Portal"
+}
+]
 }
