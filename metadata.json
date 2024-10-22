@@ -3,4 +3,10 @@
 "symbol": "$GABBY",
 "description": "Official token of Gabby World",
 "image": "https://raw.githubusercontent.com/overdosed-22/metadata/refs/heads/main/gabby.png",
+"attributes": [
+{
+"trait_type": "Item",
+"value": "Developer Portal"
+}
+]
 }
